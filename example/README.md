@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an example of using the [terraform-aws-ec2_restart](https://github.com/alphagov/terraform-aws-ec2_restart) module which is a terraform module to monitor and restart any EC2s that have shut down.
+This is an example of using the [terraform-aws-ec2-restart](https://github.com/alphagov/terraform-aws-ec2-restart) module which is a terraform module to monitor and restart any EC2s that have shut down.
 
 ## How to build
 
