@@ -1,0 +1,7 @@
+**/terraform.tfstate*
+**/*vars
+**/*plan*
+**/.terraform
+**/*.json
+**/*.txt
+**/policy.json

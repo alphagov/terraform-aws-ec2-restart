@@ -1,0 +1,11 @@
+aws_az = "eu-west-1a"
+
+aws_profile = "my-aws-credentials-profile"
+
+aws_region = "eu-west-1"
+
+ssh_public_key_file = "~/.ssh/id_rsa.pub"
+
+allowed_ips = [
+  "",
+]
