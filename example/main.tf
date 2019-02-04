@@ -4,6 +4,7 @@ module "ec2_restart_example" {
   resource_prefix = "test"
   ec2_ids         = ["${aws_instance.example.id}"]
   debug           = 0
+
   custom_tags = {
     name = "test-ec2_restart"
   }
